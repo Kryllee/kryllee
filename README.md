@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="325"  src="https://github.com/user-attachments/assets/7ac71d1a-c9d6-42e7-8996-06a92b1ead78">
 <h3>Introduction</h3>
 <p align="left">
-  Hi! I'm Krylle Love T. Ladera, a 19-years-old student at the University of Science and Technology of Southern Philippines (USTP).
+  Hi! I'm Krylle Love T. Ladera, a 19-year-old student at the University of Science and Technology of Southern Philippines (USTP).
 </p>
 
 <h3>About Me</h3>
