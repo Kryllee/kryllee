@@ -15,8 +15,8 @@
 <ul>
   <li>📚 Currently studying at <b>University of Science and Technology</b></li>
   <li>💻 Learning <b>Python, C, Java, HTML, CSS, and JavaScript</b></li>
-  <li>🕵 Exploring <b>front-end and back-end development</b> to become a full-stack developer</li>
-  <!--<li>🌐 Aspiring <b>Web Developer</b> with a passion for creating user-friendly and innovative websites</li> -->
+  <!--<li>🕵 Exploring <b>front-end and back-end development</b> to become a full-stack developer</li>
+  <li>🌐 Aspiring <b>Web Developer</b> with a passion for creating user-friendly and innovative websites</li> -->
 </ul>
 
 <img align="left" alt="Coding" width="410" src="https://github.com/user-attachments/assets/2ddb8575-8ca3-4ced-9070-acd1bb800131">
