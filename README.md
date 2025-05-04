@@ -1,33 +1,46 @@
-<h1 align="center">Hola soy Krylle Love To-ong Ladera aka (meraki)👋</h1>
-<!--<h3 align="center">An Aspiring Web Developer</h3>-->
+<h1 align="center">Hey there! I'm Krylle ✨ (aka meraki)</h1>
 
+<p align="center">
+  <em>"Meraki" — to do something with soul, creativity, or love.</em><br>
+  That’s how I approach tech, art, and life.
+</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kryllee&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-<img align="right" alt="Coding" width="325"  src="https://github.com/user-attachments/assets/7ac71d1a-c9d6-42e7-8996-06a92b1ead78">
+<img align="right" alt="Coding" width="280"  src="https://github.com/user-attachments/assets/7ac71d1a-c9d6-42e7-8996-06a92b1ead78">
 <h3>Introduction</h3>
 <p align="left">
-  Hi! I'm Krylle Love T. Ladera, a 19-year-old student at the University of Science and Technology of Southern Philippines (USTP).
+  Hi! I'm Krylle Love T. Ladera, a 19-year-old student at the University of Science and Technology of Southern Philippines (USTP). I'm on a mission to learn and grow as a developer — one line of code, one bug, and one breakthrough at a time. Right now, I'm exploring Python, C, Java, HTML, CSS, and JavaScript.
+
+Honestly? It’s not a real coding session if something (or someone) doesn’t crash..
 </p>
 
 <h3>About Me</h3>
-<ul>
-  <li>📚 Currently studying at <b>University of Science and Technology</b></li>
-  <li>💻 Learning <b>Python, C, Java, HTML, CSS, and JavaScript</b></li>
-  <!--<li>🕵 Exploring <b>front-end and back-end development</b> to become a full-stack developer</li>
-  <li>🌐 Aspiring <b>Web Developer</b> with a passion for creating user-friendly and innovative websites</li> -->
-</ul>
+
+- 🎓 Currently studying **Information Technology at USTP**
+- 💻 Exploring programming with **Python, C, Java, HTML, CSS, and JavaScript**
+- 🎮 I play **Mobile Legends and Genshin Impact** in my free time
+- 📚 I read Wattpad (anything) — I'm a sucker for good stories 
+- 👻 I really enjoy horror — the thrill, the suspense, the “why am I watching this alone?” moments
+- 🎨 I love being creative, whether it’s through tech, design, or storytelling
 
 <img align="left" alt="Coding" width="410" src="https://github.com/user-attachments/assets/2ddb8575-8ca3-4ced-9070-acd1bb800131">
 
 <!--<h3>Projects</h3>
 <ul>
   <li>🕒 <a href="https://ageclock.vercel.app/">Live Age Clock</a> - A web-based tool that calculates and displays your age in real-time, providing precision down to eight decimal places based on your birthdate input.</li>
-  <li>🌄 <a href="https://bgclear.vercel.app/">Image Background Remover</a> - A simple web application that allows users to upload an image and automatically remove its background. </li>
-  <li>📚 <a href="https://devcheatsheets.vercel.app/">Dev Cheatsheets</a> - A collection of cheatsheets for programming languages and dev tools. </li>
-  <li>📧 <a href="http://drafted.fwh.is/">Drafted</a> - A web-based platform designed to let users anonymously share heartfelt messages, regrets, or unspoken thoughts. </li>
 </ul> -->
+</br>
+<h3 align="left">Connect with me:</h3>
+  <a href="https://www.facebook.com/Krylletot" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="48" width="48" /></a>
+  <a href="https://discord.gg/74jFFFgjNT" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="48" width="48" /></a>
+  <a href="https://www.instagram.com/luvkryllee/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="48" width="48" /></a>
+  <a href="mailto:k.laderaaa@gmail.com" target="_blank">
+  <img align="center" src="https://github.com/user-attachments/assets/21cc4f46-0888-4bab-a064-bf0c69915819" alt="Email" height="48" width="48" /></a>
+
+</p>
+
 
 <h3>Tools and Languages</h3>
 <p>
@@ -39,10 +52,11 @@
 <div align="center">
   <img height="295px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kryllee&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
 </div>
-
+</br>
 <div align="center">
     <img height="210px" src="https://github-readme-streak-stats.herokuapp.com/?user=Kryllee&" alt="Kryllee"/>
 </div>
-deadonarrival
+
+<p align="center">deadonarrival</p>
 
 
