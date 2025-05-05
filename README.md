@@ -36,7 +36,7 @@ Honestly? It’s not a real coding session if something (or someone) doesn’t c
   <a href="https://www.facebook.com/Krylletot" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="48" width="48" /></a>
   <a href="https://discord.gg/74jFFFgjNT" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="48" width="48" /></a>
   <a href="https://www.instagram.com/luvkryllee/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="48" width="48" /></a>
-  <a href="mailto:k.laderaaa@gmail.com" target="_blank">
+  <a href="k.laderaaa@gmail.com" target="_blank">
   <img align="center" src="https://github.com/user-attachments/assets/21cc4f46-0888-4bab-a064-bf0c69915819" alt="Email" height="48" width="48" /></a>
 
 </p>
