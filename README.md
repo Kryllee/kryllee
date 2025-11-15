@@ -11,7 +11,7 @@
 <img align="right" alt="Coding" width="300"  src="https://github.com/user-attachments/assets/df0e680a-8a31-4601-ba72-d08b4b866daf">
 <h3>Introduction</h3>
 <p align="left">
-  Hi! I'm Krylle Love T. Ladera, a 19-year-old student at the University of Science and Technology of Southern Philippines (USTP). I'm on a mission to learn and grow as a developer — one line of code, one bug, and one breakthrough at a time. Right now, I'm exploring Python, C, Java, HTML, CSS, and JavaScript.
+  Hi! I'm Krylle Love T. Ladera, a student at the University of Science and Technology of Southern Philippines (USTP). I'm on a mission to learn and grow as a developer — one line of code, one bug, and one breakthrough at a time. Right now, I'm exploring Python, C, Java, HTML, CSS, and JavaScript.
 
 Honestly? It’s not a real coding session if something (or someone) doesn’t crash..
 </p>
